@@ -18,3 +18,9 @@ CREATE TABLE tbTurma2B (
 	, nomeAluno VARCHAR (60)
 	, statusAluno BIT
 );
+
+CREATE TABLE tbTurma3 (
+	rmAluno INT PRIMARY KEY
+	, nomeAluno VARCHAR (60)
+	, statusAluno BIT
+);
